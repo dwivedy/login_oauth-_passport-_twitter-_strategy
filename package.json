@@ -1,0 +1,22 @@
+{
+  "name": "oauthex",
+  "version": "1.0.0",
+  "description": "oauth2.0 with passport examples\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D.js examples",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "dglobe",
+  "license": "ISC",
+  "dependencies": {
+    "cookie-parser": "^1.4.3",
+    "cookie-session": "^2.0.0-beta.3",
+    "express": "^4.16.2",
+    "express-hbs": "^1.0.4",
+    "express-session": "^1.15.6",
+    "mongoose": "^5.0.1",
+    "mongoose-findorcreate": "^2.0.0",
+    "passport": "^0.4.0",
+    "passport-twitter": "^1.0.4"
+  }
+}
